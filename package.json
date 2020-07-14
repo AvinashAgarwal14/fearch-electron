@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AvinashAgarwal14/fearch-electron/issues"
   },
-  "homepage": "https://github.com/AvinashAgarwal14/fearch-electron#readme"
+  "homepage": "https://github.com/AvinashAgarwal14/fearch-electron#readme",
+  "dependencies": {
+    "electron": "^9.2.1"
+  }
 }
