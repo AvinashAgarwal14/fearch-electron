@@ -8,6 +8,11 @@
     display: inline-block;
 }
 
+#content {
+    margin: auto;
+    width: 50%;
+}
+
 body {
     min-width: 379px;
     font-size: 100%;
